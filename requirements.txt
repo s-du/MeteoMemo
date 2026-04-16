@@ -1,0 +1,8 @@
+PyQt6
+Pillow
+requests-cache
+pandas
+retry-requests
+pytz
+openmeteo-requests
+matplotlib
