@@ -29,6 +29,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Screenshot
+
+![App output screenshot](docs/screens/screen1.png)
+
 ## Notes
 
 - The selected image must contain EXIF GPS data and `DateTimeOriginal`.
