@@ -1,4 +1,4 @@
-# MeteoMemo
+![App banner](docs/screens/thumb2.png)
 
 A desktop app that reads GPS + timestamp metadata from a drone photo and fetches historical weather data for the 24 hours before the flight.
 
